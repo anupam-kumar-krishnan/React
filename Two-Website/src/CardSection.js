@@ -8,6 +8,7 @@ const CardSection = () => {
         <div className="row">
           <div className="col-4">
             <Card title="LearnCodeOnline" />
+    
           </div>
           <div className="col-4">
             <Card title="LearnCodeOnline" />
