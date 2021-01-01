@@ -3,9 +3,9 @@ import './App.css';
 
 function App() {
 
-  const [count, setCount] = useState(0); //set for updating the variable
+const [count, setCount] = useState(0); //set for updating the variable
   
-  return (
+return (
     <div className ="App">
       <header>
       <h1>Counter app Using State/Hooks</h1>
