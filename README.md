@@ -1,6 +1,6 @@
-# React Bootcamp⚛ by Hitesh Chowdhary from LearnCodeOnline
+# React Bootcamp⚛ by Hitesh Chowdhary from [LearnCodeOnline](https://courses.learncodeonline.in/)
 
-# React
+# [React](https://reactjs.org/)
 A JavaScript library for building user interfaces✨
 
 # Commands to create a react app ✍
