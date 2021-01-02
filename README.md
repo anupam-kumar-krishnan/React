@@ -21,6 +21,12 @@ A JavaScript library for building user interfaces✨
     
   📌 <b>Three - State counter</b><br>
      A counter which increase, decrease and reset functions
+     
+  📌 <b>Four - Tic Tac Toe</b><br>
+     A simple tic tac toe game 
+     
+  📌 <b>Five - Theme Switcher/Toggler</b><br>
+     A theme changer swtichesfrom light to dark mode and vice-versa     
 
 
 
