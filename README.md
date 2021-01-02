@@ -13,7 +13,8 @@ A JavaScript library for building user interfaces✨
 ![carbon (4)](https://user-images.githubusercontent.com/69143883/103172327-b121f480-4878-11eb-8c90-6cf87bce996e.png)
 
 ## Contents 📕📗📘📙
-  📌 <b>One - HelloWorld</b><br>
+
+📌 One - HelloWorld<br>
      A simple react app consisting of text and buttons<br>
      
    <b>Output</b><br>
