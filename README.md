@@ -14,7 +14,7 @@ A JavaScript library for building user interfaces✨
 
 ## Contents 📕📗📘📙
 
-📌 One - HelloWorld<br>
+📌 <b>One - HelloWorld</b><br>
      A simple react app consisting of text and buttons<br>
      
    <b>Output</b><br>
