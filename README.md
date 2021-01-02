@@ -1,10 +1,13 @@
 # React Bootcamp⚛ by Hitesh Chowdhary from [LearnCodeOnline](https://courses.learncodeonline.in/)
 
 # [React](https://reactjs.org/)
-A JavaScript library for building user interfaces✨
-
+```diff
+- A JavaScript library for building user interfaces✨
+```
 # Commands to create a react app ✍
-  Before writing the commands make sure you have npm and react installed on your system<br>
+```diff
+- Before writing the commands make sure you have npm and react installed on your system
+``` 
  ## _Open your command prompt and write these commands_<br>
 
 ![carbon (2)](https://user-images.githubusercontent.com/69143883/103172204-cea28e80-4877-11eb-8a9b-0f382462cfb1.png)
