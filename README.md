@@ -29,22 +29,25 @@ A JavaScript library for building user interfaces✨
      ![3](https://user-images.githubusercontent.com/69143883/103451818-80b1de80-4cee-11eb-8e84-66fdce3cff87.PNG)<br>
     
   📌 <b>Three - State counter</b><br>
-     A counter which increase, decrease and reset functions<br>
+     A counter which has increase, decrease and reset functions<br>
      
    <b>Output</b><br>
      ![counter](https://user-images.githubusercontent.com/69143883/103451843-fcac2680-4cee-11eb-85e5-9daed1f59e94.PNG)
      
   📌 <b>Four - Tic Tac Toe</b><br>
-     A simple tic tac toe game <br><br>
+     A simple Tic Tac Toe game <br><br>
      
    <b>Output</b><br>
      ![output](https://user-images.githubusercontent.com/69143883/103451732-80651380-4ced-11eb-9312-f6f885de9896.PNG)<br>
 
   📌 <b>Five - Theme Switcher/Toggler</b><br>
-     A theme changer swtichesfrom light to dark mode and vice-versa     
+     A theme changer swtiches from LIGHT to DARK MODE and vice-versa     
 
    <b>Output</b><br>
+     LIGHT MODE
      ![off](https://user-images.githubusercontent.com/69143883/103451869-56145580-4cef-11eb-8622-ce0e7507baf3.PNG)<br>
+     
+   DARK MODE<br>
      ![on](https://user-images.githubusercontent.com/69143883/103451871-5876af80-4cef-11eb-8220-51c0e1e17598.PNG)
 
 
