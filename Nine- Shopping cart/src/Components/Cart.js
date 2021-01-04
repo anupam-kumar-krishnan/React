@@ -45,16 +45,16 @@ const Cart = ({ cartItem, removeItem, buyNow }) => {
         <Card className="text-center mt-3">
           <CardHeader>Grand Total</CardHeader>
           <CardBody>
-            Your amount for {cartItem.length} product is {amount}
+            Your Total Amount for {cartItem.length} product : Rs. {amount}
           </CardBody>
           <CardFooter>
             <Button color="success" onClick={buyNow}>
-              pay here
+              Pay Here
             </Button>
           </CardFooter>
         </Card>
       ) : (
-        <h1 className="text-warning">Cart is empty</h1>
+        <h1 className="text-warning">Cart Is Empty</h1>
       )}
     </Container>
   );
