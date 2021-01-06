@@ -62,7 +62,7 @@
   📌 <b>Seven - Todo with local storage</b><br> 
       It saves the todos i.e. todos will not vanish after refresh, it will remain there<br>
       
-       <b>Output</b><br>
+   <b>Output</b><br>
       ![local](https://user-images.githubusercontent.com/69143883/103805310-67f05280-5079-11eb-8d87-ac6e90ad99cd.PNG)<br>
 
  📌 <b>Eight - Profile card - data fetched using API</b><br> 
@@ -74,7 +74,7 @@
  📌 <b>Nine -Shopping Cart Using API fetching</b><br>  
       A simple shopping cart in which photos are fetched using API, already added message pop up and purchase complete message<br>
       
-       <b>Output</b><br>
+   <b>Output</b><br>
       ![Shopping Cart](https://user-images.githubusercontent.com/69143883/103529352-830d6780-4eab-11eb-8ee6-2c25df1a8240.PNG)
       ![purchase](https://user-images.githubusercontent.com/69143883/103529355-86a0ee80-4eab-11eb-81a7-188b302d5ac3.PNG)
 
