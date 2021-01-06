@@ -46,7 +46,7 @@
      ![output](https://user-images.githubusercontent.com/69143883/103451732-80651380-4ced-11eb-9312-f6f885de9896.PNG)<br>
 
   📌 <b>Five - Theme Switcher/Toggler</b><br>
-     A theme changer swtiches from LIGHT to DARK MODE and vice-versa     
+     A theme changer swtiches from LIGHT to DARK MODE and vice-versa<br>     
 
    <b>Output</b><br>
      LIGHT MODE
@@ -56,13 +56,25 @@
      ![on](https://user-images.githubusercontent.com/69143883/103451871-5876af80-4cef-11eb-8220-51c0e1e17598.PNG)<br>
      
   📌 <b>Six - Todo Using ContextAPI</b><br>   
+       <b>Output</b><br>
       ![Todo Context APi](https://user-images.githubusercontent.com/69143883/103463410-264a6980-4d52-11eb-938f-d25de63232fa.PNG)
 
-  📌 <b>Eight - Profile card - data fetched using API</b><br>   
-      ![profile](https://user-images.githubusercontent.com/69143883/103804136-a422b380-5077-11eb-8345-9c44ebbc38a2.PNG)
+  📌 <b>Seven - Todo with local storage</b><br> 
+      It saves the todos i.e. todos will not vanish after refresh, it will remain there<br>
+      
+       <b>Output</b><br>
+      ![local](https://user-images.githubusercontent.com/69143883/103805310-67f05280-5079-11eb-8d87-ac6e90ad99cd.PNG)<br>
+
+ 📌 <b>Eight - Profile card - data fetched using API</b><br> 
+      <b>Data fetched using API</b><br>
+      
+   <b>Output</b><br>
+      ![profile](https://user-images.githubusercontent.com/69143883/103804136-a422b380-5077-11eb-8345-9c44ebbc38a2.PNG)<br>
 
  📌 <b>Nine -Shopping Cart Using API fetching</b><br>  
       A simple shopping cart in which photos are fetched using API, already added message pop up and purchase complete message<br>
+      
+       <b>Output</b><br>
       ![Shopping Cart](https://user-images.githubusercontent.com/69143883/103529352-830d6780-4eab-11eb-8ee6-2c25df1a8240.PNG)
       ![purchase](https://user-images.githubusercontent.com/69143883/103529355-86a0ee80-4eab-11eb-81a7-188b302d5ac3.PNG)
 
