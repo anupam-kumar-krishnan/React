@@ -29,8 +29,8 @@
      Converted a html website template into react<br>
      
   <b>Output</b><br>
-     ![1](https://user-images.githubusercontent.com/69143883/103451816-7bed2a80-4cee-11eb-8bfa-8f452bfe9836.PNG)
-     ![2](https://user-images.githubusercontent.com/69143883/103451817-7e4f8480-4cee-11eb-91ca-054cc9ed610e.PNG)
+     ![1](https://user-images.githubusercontent.com/69143883/103451816-7bed2a80-4cee-11eb-8bfa-8f452bfe9836.PNG)<br>
+     ![2](https://user-images.githubusercontent.com/69143883/103451817-7e4f8480-4cee-11eb-91ca-054cc9ed610e.PNG)<br>
      ![3](https://user-images.githubusercontent.com/69143883/103451818-80b1de80-4cee-11eb-8e84-66fdce3cff87.PNG)<br>
     
   📌 <b>Three - State counter</b><br>
