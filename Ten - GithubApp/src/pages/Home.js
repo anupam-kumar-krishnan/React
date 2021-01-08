@@ -25,7 +25,7 @@ const Home = () => {
 
     const fetchDetails = async () => {
         try{
-            const {data} = await Axios.get(`https://api.github.com/users/anupam-kumar-krishnan/${query}`)
+            const {data} = await Axios.get(`https://api.github.com/users/${query}`)
             setUser(data);
             console.log({data});
         } catch(error){
