@@ -83,4 +83,14 @@
     Using API fetching user details and public repos with user authentication using firebase<br>
     
    <b>Output</b><br>
-    ![Capture](https://user-images.githubusercontent.com/69143883/104049667-59d23b80-520b-11eb-9a12-1fa44fe51de6.PNG)
+    ![Capture](https://user-images.githubusercontent.com/69143883/104049667-59d23b80-520b-11eb-9a12-1fa44fe51de6.PNG)<br>
+    
+    
+ 📌 <b>Eleven - Sign up Form</b><br>  
+    Sign Up Form<br>
+    
+   <b>Output</b><br>
+   ![Form](https://user-images.githubusercontent.com/69143883/106451078-0a9ac600-64ac-11eb-80da-6208493bc6e1.PNG)
+
+    
+    
