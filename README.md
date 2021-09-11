@@ -37,8 +37,9 @@
   📌 <b>Three - State counter</b><br>
      A counter which has increase, decrease and reset functions<br>
      
-   <b>Output</b><br>
-     ![counter](https://user-images.githubusercontent.com/69143883/103451843-fcac2680-4cee-11eb-85e5-9daed1f59e94.PNG)
+   <b>Output</b><br>  
+     ![Capture](https://user-images.githubusercontent.com/69143883/132937259-256cdba4-8f54-4827-acdf-5e4a24ceae3e.PNG)
+
      
   📌 <b>Four - Tic Tac Toe</b><br>
      A simple Tic Tac Toe game <br><br>
