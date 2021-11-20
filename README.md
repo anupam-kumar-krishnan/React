@@ -1,7 +1,7 @@
 ![React](https://user-images.githubusercontent.com/69143883/104355417-a7fb7d80-5530-11eb-987b-d63ee3f75086.png)
 
 
-# [React](https://reactjs.org/)
+# [React.js](https://reactjs.org/)
 ```diff
 - A JavaScript library for building user interfaces✨
 ```
