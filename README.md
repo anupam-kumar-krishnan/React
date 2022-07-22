@@ -5,7 +5,7 @@
 ```diff
 - A JavaScript library for building user interfaces✨
 ```
-# Commands to create a react app ✍
+# Commands to create a React App ✍
 ```diff
 - Before writing the commands make sure you have npm and react installed on your system
 ``` 
