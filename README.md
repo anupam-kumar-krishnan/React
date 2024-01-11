@@ -1,11 +1,11 @@
 ![React](https://user-images.githubusercontent.com/69143883/104355417-a7fb7d80-5530-11eb-987b-d63ee3f75086.png)
 
 
-# [React JS](https://reactjs.org/)✡️
+# _[React JS](https://reactjs.org/)✡️_
 ```diff
 - A JavaScript library for building user interfaces✨
 ```
-# Commands to create a React App✍
+# _Commands to create a React App✍_
 ```diff
 - Before writing the commands make sure you have npm and react installed on your system
 ``` 
